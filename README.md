@@ -1,10 +1,10 @@
-### Hi, my name is <strong>Thiago Almeida</strong>
+### Hi, my name is <strong>Thiago Almeida!</strong>
 
 I'm a Fullstack developer from Rio de Janeiro, Brazil.
 
 ## 👨‍💻 About Me
 
-- 🎓 Graduated from [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web)
+- 🎓 Graduated from [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web) - Gama Experience #46
 
 ## 🚀 Skills
 

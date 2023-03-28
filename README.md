@@ -1,6 +1,6 @@
 ### Hi, my name is <strong>Thiago Almeida!</strong>
 
-I'm a Fullstack developer from Rio de Janeiro, Brazil.
+I'm a Fullstack developer focusing on backend development from Rio de Janeiro, Brazil.
 
 ## 👨‍💻 About Me
 

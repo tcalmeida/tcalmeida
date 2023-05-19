@@ -18,8 +18,10 @@ I'm a Fullstack developer focusing on backend development from Rio de Janeiro, B
 
 ## 📊 GitHub Stats
 
-[![tcalmeida's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tcalmeida&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![tcalmeida's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tcalmeidat&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=tcalmeida&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <!---
 tcalmeida/tcalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

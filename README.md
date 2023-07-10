@@ -19,11 +19,9 @@ I'm a Full Stack developer focusing on back-end who is always looking to develop
 
 ## 📊 GitHub Stats
 
-<div align="center">  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&layout=compact&langs_count=6&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 tcalmeida/tcalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

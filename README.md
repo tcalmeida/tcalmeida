@@ -3,6 +3,7 @@
 I'm a web developer focusing on back-end who is always looking to develop creative and innovative projects.
 
 🎓 Graduated from [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web) - :trophy: 1º place in Gama Experience #46 bootcamp.
+</br>
 
 ## 🚀 Skills
 
@@ -21,6 +22,7 @@ I'm a web developer focusing on back-end who is always looking to develop creati
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)
+</br>
 
 ## 📊 GitHub Stats
 

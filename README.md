@@ -2,7 +2,7 @@
 
 I'm a web developer focusing on back-end who is always looking to develop creative and innovative projects.
 
-🎓 Graduated from [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-web) - :trophy: 1º place in Gama Experience #46 bootcamp.
+:trophy: 1º place in Gama Experience #46 bootcamp.
 </br>
 
 ## 🚀 Skills

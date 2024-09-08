@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm a developer focusing on back-end who is always looking to develop creative and innovative projects.
-
+I'm a back-end developer who is always looking to develop creative and innovative projects.
 </br>
 
 ## 🚀 Skills
@@ -29,9 +28,3 @@ I'm a developer focusing on back-end who is always looking to develop creative a
 ## 📊 GitHub Stats
 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-tcalmeida/tcalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

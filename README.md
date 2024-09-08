@@ -2,7 +2,6 @@
 
 I'm a developer focusing on back-end who is always looking to develop creative and innovative projects.
 
-:trophy: 1º place in Gama Experience #46 bootcamp.
 </br>
 
 ## 🚀 Skills

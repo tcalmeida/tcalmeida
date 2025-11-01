@@ -24,7 +24,3 @@ I'm a back-end developer who is always looking to develop creative and innovativ
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)
 </br>
-
-## 📊 GitHub Stats
-
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tcalmeida&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
